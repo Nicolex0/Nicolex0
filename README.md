@@ -1,7 +1,6 @@
 # Hii👋 
 - I’m Nicole
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning how to code
+- 👀 I’m a fullstack Software developer
 - 💞️ I’m looking to collaborate on everything related
 
 
